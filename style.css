@@ -1,0 +1,26 @@
+.table {
+    border: 2px solid #000;
+}
+.table-title {
+    font-weight: 700;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: green;
+}
+.table-line {
+    border: 1px solid #000;
+    background-color: aqua;
+    color: grey;
+    font-weight: 900;
+}
+.table-line-color{
+    font-size: 16px;
+    padding: 12px;
+    color: #ff0000;
+}
+.table-hedaer {
+    border: 1px solid #000;
+    background-color: blue;
+    color: #fff;
+    padding: 4px;
+}
